@@ -19,7 +19,7 @@
 [submodule "bibliography"]
 	path = bibliography
 	url = https://github.com/nkanagno/bibliography.git
-
 [submodule "kallipos-contribution"]
 	path = kallipos-contribution
 	url = https://github.com/nkanagno/kallipos-contribution.git
+	branch = master
