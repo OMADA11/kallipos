@@ -1,25 +1,25 @@
 [submodule "extras"]
 	path = extras
-	url = https://github.com/OMADA11/extras.git
+	url = https://github.com/nkanagno/extras.git
 	branch = master
 [submodule "quotes"]
 	path = quotes
-	url = https://github.com/OMADA11/_quotes.git
+	url = https://github.com/nkanagno/_quotes.git
 	branch = master
 [submodule "figures"]
 	path = figures
-	url = https://github.com/OMADA11/_gallery
+	url = https://github.com/nkanagno/_gallery
 [submodule "images"]
 	path = images
-	url = https://github.com/OMADA11/images
+	url = https://github.com/nkanagno/images
 [submodule "text"]
 	path = text
-	url = https://github.com/OMADA11/text.git
+	url = https://github.com/nkanagno/text.git
 	branch = master
 [submodule "bibliography"]
 	path = bibliography
-	url = https://github.com/OMADA11/bibliography.git
+	url = https://github.com/nkanagno/bibliography.git
 
 [submodule "kallipos-contribution"]
 	path = kallipos-contribution
-	url = https://github.com/OMADA11/kallipos-contribution.git
+	url = https://github.com/nkanagno/kallipos-contribution.git
