@@ -20,3 +20,6 @@
 	path = bibliography
 	url = https://github.com/OMADA11/bibliography.git
 
+[submodule "kallipos-contribution"]
+	path = kallipos-contribution
+	url = https://github.com/OMADA11/kallipos-contribution.git
