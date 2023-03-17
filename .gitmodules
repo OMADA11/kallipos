@@ -15,7 +15,7 @@
 [submodule "text"]
 	path = text
 	url = https://github.com/OMADA11/text.git
-	branch = main
+	branch = master
 [submodule "bibliography"]
 	path = bibliography
 	url = https://github.com/OMADA11/bibliography.git
